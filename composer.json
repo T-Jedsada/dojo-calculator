@@ -1,5 +1,7 @@
 {
-    "require": {},
+    "require": {
+        
+    },
     "scripts": {
         "test" : "phpunit test/CalculatorTest.php"
     }
